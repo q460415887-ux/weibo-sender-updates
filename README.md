@@ -1,2 +1,6 @@
-# weibo-sender-updates
-群发软件 Windows 成品与签名更新清单
+# 群发软件更新
+
+本仓库用于发布群发软件的 Windows 程序成品和签名更新清单。
+应用源码、用户账号、登录资料和开发者私钥均不在本仓库中。
+
+客户更新入口：[最新发行版](https://github.com/q460415887-ux/weibo-sender-updates/releases/latest)。旧客户第一次切换更新渠道，请按开发者提供的迁移说明手动升级一次，并保留原账号及资料。
